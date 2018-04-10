@@ -2,14 +2,14 @@
 Implementation ALGTSVM algorithm.   
 
 If you use our code, please cite the relative paper:   
-@article{yue2017semi,
-  title={Semi-supervised learning through adaptive Laplacian graph trimming},
-  author={Yue, Zongsheng and Meng, Deyu and He, Juan and Zhang, Gemeng},
-  journal={Image and Vision Computing},
-  volume={60},
-  pages={38--47},
-  year={2017},
-  publisher={Elsevier}
+@article{yue2017semi,   
+  title={Semi-supervised learning through adaptive Laplacian graph trimming},    
+  author={Yue, Zongsheng and Meng, Deyu and He, Juan and Zhang, Gemeng},   
+  journal={Image and Vision Computing},   
+  volume={60},   
+  pages={38--47},    
+  year={2017},   
+  publisher={Elsevier}   
 }
 
 Experiments environment:   
