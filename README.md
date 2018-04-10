@@ -1,5 +1,6 @@
 # ALGT
 Implementation ALGTSVM algorithm.
+
 If you use our code, please cite the relative paper:
 @article{yue2017semi,
   title={Semi-supervised learning through adaptive Laplacian graph trimming},
@@ -11,7 +12,7 @@ If you use our code, please cite the relative paper:
   publisher={Elsevier}
 }
 
-Experiments environment:
+Experiments environment:\n
 	Ubuntu 16.04
 	matlab: R2018a
 Requirement: libsvm.
