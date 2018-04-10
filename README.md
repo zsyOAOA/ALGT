@@ -1,7 +1,7 @@
 # ALGT
-Implementation ALGTSVM algorithm.
+Implementation ALGTSVM algorithm.   
 
-If you use our code, please cite the relative paper:
+If you use our code, please cite the relative paper:   
 @article{yue2017semi,
   title={Semi-supervised learning through adaptive Laplacian graph trimming},
   author={Yue, Zongsheng and Meng, Deyu and He, Juan and Zhang, Gemeng},
