@@ -12,16 +12,16 @@ If you use our code, please cite the relative paper:
   publisher={Elsevier}
 }
 
-Experiments environment:\n
-	Ubuntu 16.04
-	matlab: R2018a
-Requirement: libsvm.
+Experiments environment:   
+	Ubuntu 16.04   
+	matlab: R2018a   
+Requirement: libsvm.   
 
-Demo:
-1. Compile libsvm
-	cd ALGTRootPath/libsvm (ALGTRootPATH denotes the root directory of this project)
-	make_libsvm
-2. execute demo
+Demo:   
+1. Compile libsvm   
+	cd ALGTRootPath/libsvm (ALGTRootPATH denotes the root directory of this project)   
+	make_libsvm   
+2. execute demo   
 	demoALGT
 
 
