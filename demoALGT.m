@@ -2,6 +2,7 @@ clear;
 clc;
 
 % setting default paths
+init_path
 
 % setting random seed
 seed = 2001;
